@@ -1,4 +1,4 @@
-# 🚀 Charith.Dev - Personal Portfolio Website
+# 🚀 Jeff.Dev - Personal Portfolio Website
 
 Welcome to the official repository for **Charith.Dev**, my personal portfolio website designed to showcase my web development skills, projects, and journey as a developer.
 
@@ -7,7 +7,7 @@ Welcome to the official repository for **Charith.Dev**, my personal portfolio we
 ## 🌐 Live Demo
 
 Check out the live website here:  
-👉 **[Charith.Dev Live Website](https://chrith123456niroshan-rgb.github.io/Charith.Dev/)**
+👉 **[Charith.Dev Live Website](https://jeff-portifolio-one.vercel.app/)**
 
 ---
 
@@ -35,14 +35,14 @@ To run this project locally on your machine, follow these simple steps:
 Navigate to the project directory:
 
 Bash
-cd Charith.Dev
+cd Jeff.Dev
 Open index.html:
 Simply double-click the index.html file or use a local server like VS Code's Live Server extension to run it in your browser.
 
 📬 Connect with Me
-LinkedIn: [www.linkedin.com/in/charith-niroshan-a5a495274]
+LinkedIn: [www.linkedin.com/in/jofrey-nasson]
 
-GitHub: @chrith123456niroshan-rgb
+GitHub: @jofreyn7
 
 ⭐ If you like this project, feel free to give it a star!
 
